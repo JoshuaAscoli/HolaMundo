@@ -1,5 +1,4 @@
-# HolaMundo
- Sobre Mi
+# Sobre Mi
  Mi nombre es Joshua Ascoli, vivo en el departamento de Quetzaltenango y tengo 17 años
 ## Hobbies 
 * Videojuegos
