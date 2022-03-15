@@ -1,7 +1,7 @@
 # Mis temas favoritos de la carrera 
  Mi nombre es Joshua Ascoli, en este caso programo en Visual Studio y estaré enseñando mis temas favoritos en la carrera :)
  Actualmente el tema que estamos viendo es sobre GitHub :D 
- Uno de mis compañeros es @LuisOvalleH
+ Uno de mis compañeros es @github/LuisOvalleH
 ## Mis temas favoritos 
 * Introducción a la ingeniería en informática y sistemas
 * Teoría de sistemas
